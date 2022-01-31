@@ -37,7 +37,7 @@
 						<muleVersion>${muleVersion}</muleVersion>
 						<username>${username}</username>
 						<password>${password}</password>
-						<applicationName>demo-api</applicationName>
+						<applicationName>cicd</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>${workerType}</workerType>
 						<workers>${workers}</workers>
