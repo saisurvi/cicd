@@ -38,7 +38,7 @@
 						<username>${username}</username>
 						<password>${password}</password>
 						<applicationName>cicd-sample-demo</applicationName>
-						<environment>Sandbox</environment>
+						<environment>SANDBOX</environment>
 						<workerType>${workerType}</workerType>
 						<workers>${workers}</workers>
 						<objectStoreV2>true</objectStoreV2>
